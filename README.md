@@ -3,7 +3,7 @@
     <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
   </a>
 </p>
-<h2>Marcos SarLo fork de Bootstrap</h2>
+<h2 align="center">Esto es un Fork de Bootstrap</h2>
 <h3 align="center">Bootstrap</h3>
 
 <p align="center">
